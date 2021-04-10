@@ -4,7 +4,7 @@ My name is joão I am 20 years old, I live in Brazil and I am currently studying
 
 ### My contacts 🧑🏻
 
-- Linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-de-oliveira-santos-8245621bb/
+- Linkedin: https://www.linkedin.com/in/joaovitor0605/
 - Email: asanoturna0605@gmail.com
 _____________________
 	
