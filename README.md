@@ -1,6 +1,8 @@
 # Hi. 😃
 ## Welcome to my git! 👾 
-My name is joão I am 20 years old, I live in Brazil and I am currently studying programming and I intend to major in software engineering. I have a degree in graphic design, I studied at the saga art school for 2 years. 📚
+My name is João I am 22 years old.  just a student 📚
+I like to write some code. 🧙🏻
+
 
 ### My contacts 🧑🏻
 
