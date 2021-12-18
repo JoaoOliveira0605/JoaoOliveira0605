@@ -6,6 +6,6 @@ I like to write some code.🧙🏻
 
 ### contacts 🧑🏻
 
-- Linkedin: https:/ssssssssssssss/
+- Linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-santos/
 - Email: asanoturna0605@gmail.com
 _____________________
