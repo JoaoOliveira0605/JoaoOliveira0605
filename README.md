@@ -7,5 +7,5 @@ I like to write some code.🧙🏻
 ### contacts 🧑🏻
 
 - Linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-santos/
-- Email: asanoturna0605@gmail.com
+- Email: joaooliveira2000.dev@gmail.com
 _____________________
