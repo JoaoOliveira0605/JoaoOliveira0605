@@ -1,7 +1,7 @@
-# Hi. 😃
-## Welcome to my git! 👾 
-My name is João I am 22 years old.  just a student 📚<br>
-I like to write some code.🧙🏻
+# Hello! 😃
+## Welcome to my Git! 👾 
+My name is João I am 23 years old. just a student 📚<br>
+I write some codes.🧙🏻
 
 
 ### contacts 🧑🏻
